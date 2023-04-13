@@ -47,7 +47,7 @@ const about = {
   imageLink: require("../editable-stuff/pic.jpg"),
   imageSize: 375,
   message:
-    "My name is Marcua. I’m a  experienced full stack developer with a passion for creating innovative and cutting-edge business solutions. With a strong expertise in front-end and back-end technologies, I specialize in building reliable and user-friendly systems that exceed expectations.",
+    "My name is Marcus. I’m a  experienced full stack developer with a passion for creating innovative and cutting-edge business solutions. With a strong expertise in front-end and back-end technologies, I specialize in building reliable and user-friendly systems that exceed expectations.",
   resume: "https://resume.io/r/1F0SGhu1c",
 };
 
